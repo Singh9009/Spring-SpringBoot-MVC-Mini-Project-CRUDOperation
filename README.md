@@ -11,6 +11,7 @@ step 1) create spring starter project by adding the following dependencies:
 Add some extra dependencies to pom.xml by collecting from mvnrepository.com 
 
 Step 2) create the following packages in the project:
+
         in.spring.model
         in.spring.controller
         in.spring.repository
